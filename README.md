@@ -1,4 +1,4 @@
-# Oracle Certified Associate
+# Preparation for the Oracle Certified Associate exam.
 
 Example project with:
 * Java core
